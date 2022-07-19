@@ -100,11 +100,11 @@ class Main:
 \033[0;95m██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║
 \033[0;96m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 
- > \033[0;92mDEVELOPER     : MAHIR
- > \033[0;92mFACEBOOK ID   : MAHIR TAHSAN
- > \033[0;92mWHATSAPP      : +8801314629049
- \033[0;92m> GITHUB         : Mahironfire
- > \033[0;92mWARNING       : BAD USE IS PROHIBITED      
+ > \033[0;96mDEVELOPER     : MAHIR
+ > \033[0;96mFACEBOOK ID   : MAHIR TAHSAN
+ > \033[0;96mWHATSAPP      : +8801314629049
+ \033[0;96m> GITHUB        : Mahironfire
+ > \033[0;96mWARNING       : BAD USE IS PROHIBITED      
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sOld Fb Cracker"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
